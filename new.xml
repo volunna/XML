@@ -1,6 +1,5 @@
 
-
-ФИО - Павел Андреевич
-возраст - 33
-количество домашних животных - 1
-будущая желаемая зарплата - 1000$
+<myName>Pavel Andreevich</myName>
+<myAGE>33</myAGE>
+<numberOfPets>1</numberOfPets>
+<desiredSalary>1000$</desiredSalary>
