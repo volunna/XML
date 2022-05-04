@@ -1,4 +1,5 @@
 <bug_report>
+  <note>
   
   <ID />
   <Tester />
@@ -15,5 +16,5 @@
   <Step_discription />
   <Result_should />
   <Result_is />
-  
-</bug_report>
+    </note>
+    </bug_report>
