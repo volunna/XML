@@ -1,6 +1,7 @@
-
-Любимый фильм - Fulp Fiction
-любимый сериал - American Horror Story
-любимая еда - pizza
-любимое время года - summer 
-сторона которую хотели бы посетить - Columbia 
+<note>
+<favoriteMovie>Pulp Fiction</favoriteMovie>
+<favoriteSeries>American Horror Story</favoriteSeries>
+<favoriteFood>Pizza</favoriteFood>
+<favoriteSeason>Summer</favoriteSeason>
+<i_want_to_visit>Columbia</i_want_to_visit>
+</note>
