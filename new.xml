@@ -1,5 +1,7 @@
-
-<myName>Pavel Andreevich</myName>
-<myAGE>33</myAGE>
-<numberOfPets>1</numberOfPets>
-<desiredSalary>1000$</desiredSalary>
+<?xml version="1.0" encoding="utf-8" ?>
+<my_info>
+  <myName>Pavel Andreevich</myName>
+  <myAGE>33</myAGE>
+  <numberOfPets>1</numberOfPets>
+  <desiredSalary>1000$</desiredSalary>
+</my_info>
