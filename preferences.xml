@@ -1,7 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
 <note>
-<favoriteMovie>Pulp Fiction</favoriteMovie>
-<favoriteSeries>American Horror Story</favoriteSeries>
-<favoriteFood>Pizza</favoriteFood>
-<favoriteSeason>Summer</favoriteSeason>
-<i_want_to_visit>Columbia</i_want_to_visit>
+  <favoriteMovie>Pulp Fiction</favoriteMovie>
+  <favoriteSeries>American Horror Story</favoriteSeries>
+  <favoriteFood>Pizza</favoriteFood>
+  <favoriteSeason>Summer</favoriteSeason>
+  <i_want_to_visit>Columbia</i_want_to_visit>
 </note>
