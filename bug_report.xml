@@ -1,20 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
 <bug_report>
   <note>
-  
-  <ID />
-  <Tester />
-  <Date />
-  <Title />
-  <Summary />
-  <Skreenshot />
-  <Platform />
-  <Browser />
-  <Assignet_to>
-  <Assignet_at />
-  <Priority />
-  <Severity />
-  <Step_discription />
-  <Result_should />
-  <Result_is />
-    </note>
+    <ID />
+    <Title />
+    <Summary />
+    <Environment />
+    <Skreenshot />
+    <Assignet_to>
+    <Assignet_at />
+    <Priority />
+    <Severity />
+    <STR />
+    <ER />
+    <AR />
+      </note>
     </bug_report>
